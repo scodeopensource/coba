@@ -1,4 +1,2 @@
 # coba
-
-update coba
-update origin
+delete code
